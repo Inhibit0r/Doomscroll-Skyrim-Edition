@@ -77,7 +77,7 @@ def draw_warning(frame, text="lock in twin"):
 
     
 def main():
-    timer = 0.1
+    timer = 2.0
     looking_down_threshold = 0.25
     debounce_threshold = 0.45
     
